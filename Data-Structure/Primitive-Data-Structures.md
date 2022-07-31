@@ -13,3 +13,5 @@ Example of primitive data structures are integers, floats, characters, and point
 Primitive data structure cannot contain NULL. | Non-primitive data structure can contain NULL.
 The size of a primitive data structure is fixed, i.e. a 32-bit integer is 4 bytes. | The size of a non-primitive data structure is variable, depending on the data type and data amount.
 Usual naming convention starts the name of a primitive data structure with a small letter. | Usual naming convention starts the name of a non-primitive data structure with a capital letter.
+
+From here on out, we will use C++ as the primary language for this lesson.
